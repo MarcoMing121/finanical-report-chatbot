@@ -1,0 +1,9 @@
+# Large files
+input/lda_topic_distribution.zip
+input/txt_data_2.zip
+output.zip
+*.zip
+
+# Data directories
+input/
+output/
