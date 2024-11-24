@@ -1,0 +1,29 @@
+# Core dependencies
+langchain==0.1.0
+langchain-community==0.0.10
+langchain-core==0.1.10
+chainlit==0.7.700
+
+# LLM and Embeddings
+sentence-transformers==2.2.2
+transformers==4.37.2
+torch==2.1.2
+accelerate==0.26.1
+
+# Data processing
+pandas==2.1.4
+numpy==1.24.3
+scikit-learn==1.3.2
+
+# File handling
+python-dotenv==1.0.0
+requests==2.31.0
+urllib3==2.1.0
+pathlib==1.0.1
+
+# Database
+chromadb==0.4.22
+
+# Utilities
+tqdm==4.66.1
+pyyaml==6.0.1
